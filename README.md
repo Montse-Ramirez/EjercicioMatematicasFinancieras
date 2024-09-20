@@ -42,5 +42,5 @@ Para ilustrar el ejemplo se tiene el siguente ejercicio VA=$1,000.00 VF=$1,140.0
 
 Se realizan los calculos de t
 ```
-t = tiempo(VA=1000,VF=1140,r=0.02)
+t = Tiempo(VA=1000,VF=1140,r=0.02)
 ```
