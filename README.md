@@ -5,7 +5,7 @@ en este repositorio se agrupan las fuciones y actividades informaticas en la mat
 
 Con el siguiente codigo, puede usted cargar las funciones relativas a los cálculos de interés simple:
 ```
-source("https://raw.githubusercontent.com/AngelReyesF/MatematicasFinancieras/refs/heads/main/FormulasInteresSimple.R")
+source("https://raw.githubusercontent.com/Montse-Ramirez/EjercicioMatematicasFinancieras/refs/heads/main/EjercicoFormulasInteresSimple.R")
 ```
 A continuación se dan ejemplos de las formulas correspondientes
 
