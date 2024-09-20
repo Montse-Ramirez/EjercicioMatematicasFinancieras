@@ -15,12 +15,12 @@ VPresente = function(VF,r,t){
   return(VA)
 }
 
-rInteres = function(VA,VF,r){
+rInteres = function(VA,VF,t){
   r = (VF-VA) / (VA*t)
   return(r)
 }
 
-Tiempo = function(VA,VF,t){
+Tiempo = function(VA,VF,r){
   t=(VF-VA) / (VA*r)
   return(t)
 }
